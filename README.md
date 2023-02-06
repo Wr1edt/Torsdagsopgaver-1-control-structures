@@ -1,14 +1,11 @@
 ### Exercises with Variables and control structures
 
-Velkommen til den første torsdag med exercises. 
+Velkommen til den første opgave-torsdag. 
 
-Der vil være tutorer tilstede for, at hjælpe jer såfremt I har behov for dette. 
+Øvelserne skal afleveres inden dagen er omme. Man afleverer ved at indsætte et link til jeres eget repository (sted på GitHub), hvor I har jeres besvarelse.
+Fredag gennemgår vi jeres løsninger sammen. Dette foregår med udgangspunkt i frivillighed fra jeres side.
 
-Øvelserne skal uploades til Moodle senest kl 23:59 torsdag aften. Fredag gennemgår vi jeres løsninger sammen. Dette foregår med udgangspunkt i frivillighed fra jeres side.
-
-Det vil foregå ved at I uploader et link til jeres eget github repository, hvor I lægger jeres øvelser i. 
-
-Det betyder altså, at hvis I ikke allerede har et, skal I starte med at lave et github repository. Der er sat tid af denne første øvelsesgang til at gøre dette (se Task 1). 
+Det betyder altså, at hvis I ikke allerede har et, skal I starte med at lave en GitHub konto og dernæst et GitHub repository (se Task 1). 
 
 Det forventes at alle opgaver laves i Processing. 
 
