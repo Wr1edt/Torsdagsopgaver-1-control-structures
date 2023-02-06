@@ -2,10 +2,10 @@
 
 Velkommen til den første opgave-torsdag. 
 
-Øvelserne skal afleveres inden dagen er omme. Man afleverer ved at indsætte et link til jeres eget repository (sted på GitHub), hvor I har jeres besvarelse.
-Fredag gennemgår vi jeres løsninger sammen. Dette foregår med udgangspunkt i frivillighed fra jeres side.
+Øvelserne skal afleveres inden dagen er omme. Man afleverer ved at indsætte et link til sit eget repository.
+Et repository er som en mappe med du har i skyen (GitHub) med din besvarelse i. Hver torsdag skal du starte med at lave et repository til dagens besvarelse, og hver torsdag skal du aflevere linket til din besvarelse.
 
-Det betyder altså, at hvis I ikke allerede har et, skal I starte med at lave en GitHub konto og dernæst et GitHub repository (se Task 1). 
+Hvis du ikke allerede har en, skal du idag starte med at lave en GitHub konto og dernæst et repository til dagens aflevering (se Task 1). 
 
 Det forventes at alle opgaver laves i Processing. 
 
@@ -25,7 +25,6 @@ Opret et github repository til at lægge dine øvelser i.
 - Åben readme.md i din yndlings text editor og Tilføj dit navn og studiemail. 
 - Gå ind i Github Desktop igen. Skriv et Summary og tryk "Commit to Master" og derefter tryk Push. 
 
-OBS: Sørg for at lægge alle øvelserne ind i en mappe for den pågældende uge, så du kan genbruge dette repository til fremtidige torsdags øvelser. 
 
 Brug for hjælp til Github, kig her: 
 https://docs.github.com/en/github/getting-started-with-github/create-a-repo 
