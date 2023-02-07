@@ -37,10 +37,10 @@ I denne opgave skal du anvende variable i forbindelse med printLn kommandoer.
 - 2.b store your age in a varible and print it.
 - 2.c store whether or not you are happy right now, as a boolean (true for happy, false for sad). 
 - 2.d using the above variables print the following message:
-    "Hi, my name is \<name\>" <br />
+   <code> "Hi, my name is \<name\>" <br />
     "I am \<age\> years old" <br />
     "I \<dont\> clap my hands" <br />
-                                <br />
+                                <br /></code>
     where the \<\> refers to variables. <br />
     the last variable (\<dont\>) is only to be printed if the happy boolean is false <br />
                                 
