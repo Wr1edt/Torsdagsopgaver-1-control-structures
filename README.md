@@ -71,9 +71,12 @@ Her skal du øve dig i at skrive for-loops og while-loops.
         </summary>
         <code>String counterAsString="";
         switch(i){
-            case 3: counterAsString = "three"
+            case 3: counterAsString = "three";
+                   break;
+            case 2:
             ...
         }
+        //use the string when printing
     </code>
     </details> 
 
