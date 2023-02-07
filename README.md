@@ -69,11 +69,12 @@ Her skal du øve dig i at skrive for-loops og while-loops.
         <summary>
            Hint
         </summary>
-        String counterAsString="";
+        <code>String counterAsString="";
         switch(i){
             case 3: counterAsString = "three"
             ...
         }
+    </code>
     </details> 
 
 - 4.d change the code for 4.b and 4.c using a while loop instead of a for loop.
@@ -101,9 +102,9 @@ På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer
         <summary>
            Hint
         </summary>
-       switch(frameCount%300){
+      <code> switch(frameCount%300){
         ...
-       }
+       }</code>
     </details> 
 - 6.e Finally in the draw method, after the light variables has been set, draw the ellipses representing the lights.
 
