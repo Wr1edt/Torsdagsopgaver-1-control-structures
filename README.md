@@ -90,17 +90,17 @@ Nu skal du rette noget kode som har fejl og i øvrigt ikke er skrevet færdig.
 - 5.a solve the problem presented in MethodOne.
 - 5.b solve the problem presented in MethodTwo.
 
-## Task 6: 
+## Task 6 (FRIVILLIG): 
 Måske synes du at denne opgave er svær. I så fald kan du springe den over. Vi kigger på den til review.
 
-Du skal du tegne et traffiklys der skifter på samme måde som et rigtigt traffiklys. 
+Du skal tegne et traffiklys der skifter på samme måde som et rigtigt traffiklys. 
 Du kan gøre det på mange måder, men her kommer en opskrift hvor du skal erklære et sæt variable til at holde nogle bestemte farver og andet sæt variable der kan skifte mellem at være associeret med hver af de farver. 
 På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer farven. 
 
-- 6.a Declare and initialize variables to store the colors of a traffic light (red, yellow, green). Dont forget the color for when the lights are off.
-- 6.b Declare and initialize variables to store what color each of the lights are at a given moment in time.
-- 6.c In the setup method, draw a boks on top op which the ellipses representing the lights will be drawn (happens in the the draw method).
-- 6.d In the draw method, change the value of the light variables according to a given interval (you can achieve this by using a switch-case).
+- 6.a Declare and initialize variables to store the colors of a traffic light (red, yellow, green). Dont forget a color for when the lights are off.
+- 6.b Declare and initialize variables to store which color each of the lights are at a given moment in time.
+- 6.c In the setup method, draw a boks on top op which the ellipses representing the lights will be drawn (happens in the draw method).
+- 6.d In the draw method, change the value of the light variables according to a given interval (you can achieve this by using % and a switch-case).
 <details>
         <summary>
            Hint
