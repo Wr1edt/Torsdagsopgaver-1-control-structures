@@ -113,7 +113,7 @@ På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer
 
 
 ## Task 7: 
-- 7.a create an integer called (<code>input</code>) and assign it a value of 20. Use a loop to print all integers between the input value and 0, with the following exceptions: 
+- 7.a create an integer(<code>int</code>) called <code>input</code> and assign it a value of 20. Use a loop to print all integers between the input value and 0, with the following exceptions: 
     - if the number is 6, instead print the string "six".
     - Once the number is half of the input value, print "HALF!"
 - 7.b Run exercise 7.a again with a different input value and make sure it still works. You should also consider if it will work with a negative input, e.g. -20.
