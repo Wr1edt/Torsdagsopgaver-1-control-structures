@@ -3,7 +3,7 @@
 Velkommen til den første opgave-torsdag. 
 
 Øvelserne skal afleveres inden dagen er omme. Man afleverer ved at indsætte et link til sit eget repository.
-Et repository er som en mappe med du har i skyen (GitHub) med din besvarelse i. Hver torsdag skal du starte med at lave et repository til dagens besvarelse, og hver torsdag skal du aflevere linket til din besvarelse.
+Et repository er som en mappe du har i skyen (GitHub) med din besvarelse i. Hver torsdag skal du starte med at lave et nyt repository til dagens besvarelse, og hver torsdag skal du aflevere linket til det nye repository.
 
 Hvis du ikke allerede har en, skal du idag starte med at lave en GitHub konto og dernæst et repository til dagens aflevering (se Task 1). 
 
@@ -47,15 +47,15 @@ I denne opgave skal du anvende variable i forbindelse med printLn kommandoer.
 ## Task 3:
 I denne opgave skal du bruge relationelle operatorer (fx. <, >, <=) boolske operatorer(AND, OR, NOT).
 
-- 3.a make 2 integer variables named a and b. Print "Success!" if either of them is equal to 10 or if the sum is. If not, print "Failure!".
+- 3.a make 2 integer variables named <code>a</code> and <code>b</code>. Print "Success!" if either of them is equal to 10 or if the sum is. If not, print "Failure!".
 - 3.b make 2 integer variables named min and max. Print "Success!" if this condition is met: the sum of them must be higher than 10 and one of the numbers must be less than or equeal to 5.
-- 3.c make 3 integer variables named x, y and z. Print "Success!" if their sum is 30, but none of them may have the value of 10, 20 or 30. Otherwise print "Failure!".
+- 3.c make 3 integer variables named <code>x</code>, <code>y</code> and <code>z</code>. Print "Success!" if their sum is 30, but none of them may have the value of 10, 20 or 30. Otherwise print "Failure!".
  
 
 ## Task 4: 
-Her skal du øve dig i at skrive for-loops og while-loops. 
-- 4.a print out numbers from 0 to 20 using a for loop.
-- 4.b alter the for loop from 4.a to only print even numbers 
+Her skal du øve dig i at skrive <code>for</code>-loops og <code>while</code>-loops. 
+- 4.a print out numbers from 0 to 20 using a <code>for</code>-loop.
+- 4.b alter the <code>for</code>-loop from 4.a to only print even numbers 
 <details>
         <summary>
            Hint
@@ -63,7 +63,7 @@ Her skal du øve dig i at skrive for-loops og while-loops.
         google 'java modulus even number'
     </details>  
 
-- 4.c alter the loop so that it becomes a countdown starting at the value you give to a variable of type int called 'start'. When it reaches 0, print "Take Off!"
+- 4.c alter the loop so that it becomes a countdown starting at the value you give to a variable of type <code>int</code> called <code>start</code>. When it reaches 0, print "Take Off!"
 - In the same loop (4.c) add a little detail: the numbers 3, 2 and 1, must be printed as words (3 == "Three").
 <details>
         <summary>
@@ -80,7 +80,7 @@ Her skal du øve dig i at skrive for-loops og while-loops.
     </code>
     </details> 
 
-- 4.d change the code for 4.b and 4.c using a while loop instead of a for loop.
+- 4.d change the <code>code</code> for 4.b and 4.c using a <code>while</code>-loop instead of a <code>for</code>-loop.
 
 
 ## Task 5: 
@@ -113,7 +113,7 @@ På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer
 
 
 ## Task 7: 
-- 7.a create an integer called input and assign it a value of 20. Use a loop to print all integers between the input value and 0, with the following exceptions: 
+- 7.a create an integer called (<code>input</code>) and assign it a value of 20. Use a loop to print all integers between the input value and 0, with the following exceptions: 
     - if the number is 6, instead print the string "six".
     - Once the number is half of the input value, print "HALF!"
 - 7.b Run exercise 7.a again with a different input value and make sure it still works. You should also consider if it will work with a negative input, e.g. -20.
