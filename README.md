@@ -53,7 +53,7 @@ I denne opgave skal du bruge relationelle operatorer (fx. <, >, <=) boolske oper
  
 
 ## Task 4: 
-Her skal du øve dig i at skrive <code>for</code>-loops og <code>while</code>-loops. 
+Her skal du øve dig i at skrive <code>for</code>-loops og <code>while</code>-loops (og måske en <code>switch-case</code>)
 - 4.a print out numbers from 0 to 20 using a <code>for</code>-loop.
 - 4.b alter the <code>for</code>-loop from 4.a to only print even numbers 
 <details>
@@ -64,7 +64,7 @@ Her skal du øve dig i at skrive <code>for</code>-loops og <code>while</code>-lo
     </details>  
 
 - 4.c alter the loop so that it becomes a countdown starting at the value you give to a variable of type <code>int</code> called <code>start</code>. When it reaches 0, print "Take Off!"
-- In the same loop (4.c) add a little detail: the numbers 3, 2 and 1, must be printed as words (3 == "Three").
+- 4.d In the same loop (4.c) add a little detail: the numbers 3, 2 and 1, must be printed as words (3 == "Three").
 <details>
         <summary>
            Hint
@@ -80,7 +80,7 @@ Her skal du øve dig i at skrive <code>for</code>-loops og <code>while</code>-lo
     </code>
     </details> 
 
-- 4.d change the <code>code</code> for 4.b and 4.c using a <code>while</code>-loop instead of a <code>for</code>-loop.
+- 4.e change the <code>code</code> for 4.b and 4.c using a <code>while</code>-loop instead of a <code>for</code>-loop.
 
 
 ## Task 5: 
