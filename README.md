@@ -87,8 +87,8 @@ Her skal du øve dig i at skrive <code>for</code>-loops og <code>while</code>-lo
 Nu skal du rette noget kode som har fejl og i øvrigt ikke er skrevet færdig.
 
 - Have a look at the file in the folder named "TaskFive". 
-- 5.a solve the problem presented in methodOne.
-- 5.b solve the problem presented in methodTwo.
+- 5.a solve the problem presented in <code>methodOne</code>.
+- 5.b solve the problem presented in <code>methodTwo</code>.
 
 ## Task 6 (FRIVILLIG): 
 Måske synes du at denne opgave er svær. I så fald kan du springe den over. Vi kigger på den til review.
