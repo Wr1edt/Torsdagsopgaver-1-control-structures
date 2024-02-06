@@ -1,6 +1,9 @@
 ### Exercises with control structures
 
-## Task 1: [...]
+## Task 1: 
+I denne opgave skal du lave en switch, som printer antal dage i de forskellige måneder.
+- 1.a Lav en variabel `month` af typen String
+- 1.b Lav en switch, der anvender `month` og printer "<month> har x dage" hvor x er antallet af dage i måneden (ikke en variabel). 
 
 
 ## Task 2: 
