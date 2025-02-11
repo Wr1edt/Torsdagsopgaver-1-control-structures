@@ -2,9 +2,10 @@
 
 ## Task 1: 
 I denne opgave skal du lave en switch, som printer antal dage i de forskellige måneder.
-- 1.a Lav en variabel `month` af typen String
-- 1.b Lav en switch, der anvender `month` og printer "<month> har x dage" hvor x er antallet af dage i måneden (ikke en variabel). 
-
+- 1.a Lav en variabel `month` af typen String og en anden variabel til at holde antal dage i en måned.
+Du kan give `month` en default værdi.
+- 1.b Lav en switch-case konstruktion, der evaluerer på `month` og skriv en case til et antal måneder. I hver case, skal du sørge for at days bliver tildelt en værdi, svarende til antal dage i måneden.
+- 1.c Efter switch-case konstruktionen, udskrives en besked til brugeren, fx. "Januar har 31 dage"
 
 ## Task 2: 
 I denne opgave skal du anvende variable i forbindelse med <code>printLn()</code> kommandoer.
@@ -31,8 +32,8 @@ I denne opgave skal du bruge relationelle operatorer (fx. <, >, <=) boolske oper
 
 ## Task 4: 
 Her skal du øve dig i at skrive for-loops og while-loops. 
-- 4.a print tallene fra 0 til 20 ved hjælp af en for-loop.
-- 4.b print alle lige tal fra 0 til 20 ved hjælp af en for-loop. 
+- 4.a print tallene fra 0 til 20 ved hjælp af et for-loop.
+- 4.b print alle lige tal fra 0 til 20 ved hjælp af et for-loop. 
 <details>
         <summary>
            Hint
@@ -40,8 +41,8 @@ Her skal du øve dig i at skrive for-loops og while-loops.
         google 'java modulus even number'
     </details>  
 
-- 4.c Lav en variabel kaldet 'start' og giv den en int-værdi. Lav en for-loop som tæller ned fra værdien af variablen 'start'. Når din for-loop når 0, skal den printe "Take Off!"
-- I den samme for-loop skal du tilføje kode, så tallene 3, 2 og 1 bliver printet som ord ("three", "two", "one").
+- 4.c Lav en variabel kaldet 'start' og giv den en int-værdi. Lav et for-loop som tæller ned fra værdien af variablen 'start'. Når dit for-loop når til 0, skal den printe "Take Off!"
+- I det samme for-loop skal du tilføje kode, så tallene 3, 2 og 1 bliver printet som ord ("three", "two", "one").
 <details>
         <summary>
            Hint
