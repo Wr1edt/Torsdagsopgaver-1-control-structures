@@ -48,12 +48,13 @@ Her skal du øve dig i at skrive for-loops og while-loops.
         <summary>
            Hint
         </summary>
-  
+<code>
 String counterAsString=""; <br>
 switch(i){ <br>
-case 3: counterAsString = "three" <br>
-...
+   case 3: counterAsString = "three" <br>
+   ...
 }    
+</code>code>
 </details> 
 
 - 4.d Lav opgave 4.b og 4.c igen, men brug while-loops denne gang. 
@@ -63,15 +64,15 @@ case 3: counterAsString = "three" <br>
 Nu skal du rette noget kode som har fejl og i øvrigt ikke er skrevet færdig.
 
 - Kig på filen i mappen "TaskFive". 
-- 5.a løs problemet i <code>MethodOne()</code>.
-- 5.b løs problemet i <code>MethodTwo()</code>.
+- 5.a løs problemet i <code>methodOne()</code>.
+- 5.b løs problemet i <code>methodTwo()</code>.
 
 ## Task 6: 
 Denne opgave kan måske godt være lidt langhåret, så spring den over, hvis du er ved at være træt. 
 
 Du skal du tegne et trafiklys der skifter på samme måde som et rigtigt trafiklys. 
-Du kan gøre det på mange måder, men her kommer en opskrift hvor du skal erklære et sæt variable til at holde nogle bestemte farver og andet sæt variable der kan skifte mellem at være associeret med hver af de farver. 
-På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer farven. 
+Du kan gøre det på mange måder, men her kommer en opskrift hvor du skal erklære et sæt variable til at holde nogle bestemte farver og et ndet sæt variable, der kan skifte mellem at indeholde hver af farverne. 
+På den måde kan du lade selve fill kommandoen være uændret, selvom du ændrer farven i en variabel. 
 
 - 6.a Erklær og initialiser variable til at gemme farverne i et trafiklys (red, gul, grøn). Glem ikke at lave en variable til farven når lyset er slukket.
 - 6.b Erklær og initialiser variable til at gemme hvilken farve hvert lys i trafiklyset har på et givet tidspunkt. 
@@ -89,10 +90,10 @@ På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer
 
 
 ## Task 7: 
-- 7.a erklær en integer-variable kaldet input tildel den værdien 20. Brug et loop til at printe alle tal mellem 'input' og 0 med følgende undtagelser: 
+- 7.a erklær en integer-variabel kaldet `input` og tildel den værdien 20. Brug et loop til at printe alle tal mellem 'input' og 0 med følgende undtagelser: 
     - hvis tallet er 6, skal der printes strengen "six".
     - når tallet, der skal printe, er det halve af værdien af 'input', skal der printes "HALF!"
-- 7.b. Kør din kode fra 7.a igen med en anden værdi for 'input' og se om det stadig virker. Du kan også overveje hvad du vil gøre ved negative værdier for 'input' som fx -20.
+- 7.b. Kør din kode fra 7.a igen med en anden værdi for 'input' og se om koden stadig virker. Du kan også overveje hvad du vil gøre ved negative værdier for `input` som fx -20.
     
-# Husk at push'e ændringerne til jeres Github Repository og linke til det under afleveringen på moodle. 
+# Husk at push'e ændringerne til jeres Github Repository og linke til det under afleveringen på Moodle. 
 
