@@ -1,4 +1,4 @@
-### Exercises with control structures
+
 
 ## Task 1: 
 I denne opgave skal du lave en switch, som printer antal dage i de forskellige måneder.
@@ -24,8 +24,8 @@ I denne opgave skal du anvende variable i forbindelse med <code>println()</code>
 I denne opgave skal du bruge relationelle operatorer (fx. <, >, <=) og boolske operatorer(AND, OR, NOT).
 
 - 3.a lav 2 integer variable kaldet `a` og `b`. Print "Success!" hvis en af dem har værdien 10 eller hvis summen af de to variable er 10. Hvis ikke, så print "Failure!".
-- 3.b lav 2 integer variables kaldet `min` og `max`. Print "Success!" hvis følgende betingelse er opfyldt: summen af dem skal være højere end 10 og et af tallene skal være mindre end eller lig med 5.
-- 3.c lav 3 integer variables kaldet `x`, `y` and `z`. Print "Success!" hvis følgende betingelse er opfyldt: summen af dem er 30, men ingen af dem har værdien 10, 20 eller 30. Ellers print "Failure!".
+- 3.b lav 2 integer variable kaldet `min` og `max`. Print "Success!" hvis følgende betingelse er opfyldt: summen af dem skal være højere end 10 og et af tallene skal være mindre end eller lig med 5.
+- 3.c lav 3 integer variable kaldet `x`, `y` and `z`. Print "Success!" hvis følgende betingelse er opfyldt: summen af dem er 30, men ingen af dem har værdien 10, 20 eller 30. Ellers print "Failure!".
 - Test at din kode virker ved at give variablene forskellige værdier og tjek at det printede output er korrekt. 
 
  
@@ -72,7 +72,7 @@ Du skal du tegne et trafiklys der skifter på samme måde som et rigtigt trafikl
 Du kan gøre det på mange måder, men her kommer en opskrift hvor du skal erklære et sæt variable til at holde farverne i et trafiklys og et andet sæt variable, der repræsenterer de tre lys, som enten kan være tændte(hhv. rød, gul eller grøn) eller slukkede(grå). 
 På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer farven. 
 
-- 6.a Erklær og initialiser variable til at gemme farverne i et trafiklys (red, gul, grøn). Glem ikke at lave en variable til farven når lyset er slukket.
+- 6.a Erklær og initialiser variable til at gemme farverne i et trafiklys. Glem ikke at lave en variabel til farven når lyset er slukket.
 
 **eksempel:** `int red = color(255,0.0);`
 
@@ -135,8 +135,7 @@ Du kan tænke på det som 4 konstellationer:
     
 
 ## Task 8:
-100 tilfældigt farvede cirkler, tilfældigt placeret skærmen.
-Genskab et lignende billede med et `while`-loop. Koden skal hverken indeholde `setup()` eller `draw()` funktion.
+100 tilfældigt farvede og tilfældigt placerede cirkler. Skab et lignende billede med et `while`-loop. Koden skal hverken indeholde `setup()` eller `draw()` funktion.
 ![image](assets/art.png)
 
 
