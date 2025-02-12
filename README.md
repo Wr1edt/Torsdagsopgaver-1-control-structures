@@ -68,7 +68,7 @@ Nu skal du rette noget kode som har fejl og i øvrigt ikke er skrevet færdig.
 ## Task 6: 
 Denne opgave er lidt kringlet. Det er OK at springe den over.
 
-Du skal du tegne et trafiklys der skifter på samme måde som et rigtigt trafiklys.
+Du skal tegne et trafiklys der skifter på samme måde som et rigtigt trafiklys.
 Du kan gøre det på mange måder, men her kommer en opskrift hvor du skal erklære et sæt variable til at holde farverne i et trafiklys og et andet sæt variable, der repræsenterer de tre lys, som enten kan være tændte(hhv. rød, gul eller grøn) eller slukkede(grå). 
 På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer farven. 
 
@@ -76,20 +76,20 @@ På den måde kan du lade selve fill kommandoen være uændret selvom du ændrer
 
 **eksempel:** `int red = color(255,0.0);`
 
-- 6.b Erklær og initialiser en variabel for hver af de tre lys i trafiklyset, `light1`, `light2` og `light3`. De skal hver især pege på en farve som lampen har på et givet tidspunkt. 
+- 6.b Erklær og initialiser en variabel for hver af de tre lys/lamper i en lyskurv: `light1`, `light2` og `light3`. De skal hver især pege på den farve som lampen har på et givet tidspunkt. 
 
 **eksempel:** `int light1 = red;`
 
-- 6.c I setup-metoden skal du nu tegne en boks, som kan indeholde tre cirkler, som repræsenterer de tre lys i et trafiksignal. Cirklerne vil blive tegnet i draw-metoden.
-- 6.d I draw-metoden skal du ændre værdien af de variable, du lavede i 6.b som repræsenterer lysene (`light1`, `light2` og `light3`). 
-Du kan tænke på det som 4 konstellationer: 
+- 6.c I setup-metoden skal du nu tegne en boks, som vi senere vil tegne lys på.
+- 6.d I draw-metoden skal du skrive kode der ændrer værdien af `light1`, `light2` og `light3`. 
+Du kan tænke på koden som et skift mellem 4 konstellationer: 
   - En hvor der er rødt lys. 
   ```
   light1 = red;
   light2 = grey
   light3 = grey
   ```
-  - En hvor lyset er ved at skifte til grønt.
+  - En hvor lyset er ved at skifte til grønt. (rød og gul)
   - En hvor der er grønt.
   - En hvor der er gult.
 
